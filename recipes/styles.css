@@ -1,0 +1,23 @@
+#brigadeiro {
+  background-color: aqua;
+  margin: 10px;
+}
+
+#pave {
+  background-color: palevioletred;
+  margin: 10px;
+}
+
+#tortadelimao {
+  background-color: yellowgreen;
+  margin: 10px;
+}
+
+.fonte-subtitulos {
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ color: brown;
+}
+
+#partes {
+ color: lightseagreen;
+}
