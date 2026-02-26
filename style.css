@@ -1,0 +1,31 @@
+.titulo-principal {
+   background-color: blueviolet;
+   color: azure;
+   font-family: 'Times New Roman', Times, serif;
+   text-align: center;
+}
+
+.link-brigadeiro {
+    background-color: saddlebrown;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    color:white;
+    font-size: 30px;
+}
+
+.link-pave {
+    background-color: grey;
+    margin-left: 30px;  
+    margin-bottom: 20px;
+    color: white;
+    font-size: 30px;
+}
+
+.link-tortadelimao {
+    background-color: greenyellow;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 30px;
+}
+
